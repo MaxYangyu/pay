@@ -22,7 +22,7 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-307">
+                <state relative-caret-position="-401">
                   <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
                   <folding>
                     <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -48,8 +48,8 @@
           <file leaf-file-name="base.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/base.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="358">
-                  <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+                <state relative-caret-position="266">
+                  <caret line="80" column="20" lean-forward="true" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
@@ -117,9 +117,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="334" />
-    <option name="y" value="84" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="823" />
+    <option name="y" value="197" />
     <option name="width" value="1313" />
     <option name="height" value="912" />
   </component>
@@ -205,15 +205,15 @@
       <updated>1502698979168</updated>
       <workItem from="1502698980414" duration="8863000" />
       <workItem from="1502711335909" duration="9260000" />
-      <workItem from="1502758595001" duration="6092000" />
+      <workItem from="1502758595001" duration="6462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24215000" />
+    <option name="totallyTimeSpent" value="24585000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="334" y="84" width="1313" height="912" extended-state="1" />
+    <frame x="823" y="197" width="1313" height="912" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1254902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -349,7 +349,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-307">
+        <state relative-caret-position="-401">
           <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
           <folding>
             <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -359,8 +359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/base.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+        <state relative-caret-position="266">
+          <caret line="80" column="20" lean-forward="true" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
           <folding />
         </state>
       </provider>
