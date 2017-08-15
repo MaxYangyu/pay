@@ -74,7 +74,7 @@ section .media .pay-right {
   position: absolute;
   right: 0.3rem;
   top: 0.35rem;
-  width: 1.4rem;
+  width: 1.2rem;
   height: 0.5rem;
   background-color: #ff5069;
   border-radius: 0.25rem;
@@ -82,7 +82,7 @@ section .media .pay-right {
 section .media .pay-right a {
   color: #fff;
   text-align: center;
-  line-height: 0.54rem;
+  line-height: 0.5rem;
   font-size: 0.28rem;
   display: inherit;
 }
