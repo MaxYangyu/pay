@@ -65,7 +65,7 @@ section .media .media-body h4 {
 }
 section .media .media-body h4 span {
   position: absolute;
-  top: -0.02rem;
+  top: -0.01rem;
   padding-left: 0.1rem;
   color: #ff5069;
   font-size: 0.26rem;
