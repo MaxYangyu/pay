@@ -54,7 +54,7 @@ section .media .media-left {
 section .media .media-left img {
   display: inline-block;
   text-align: center;
-  width: 0.5rem;
+  width: 0.45rem;
 }
 section .media .media-body h4 {
   position: relative;
